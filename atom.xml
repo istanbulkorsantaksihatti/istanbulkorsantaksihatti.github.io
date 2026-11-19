@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>İstanbul Korsan Taksi | İki Havalimanı ve Otogar</title>
+  <link href="https://istanbulkorsantaksihatti.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://istanbulkorsantaksihatti.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://istanbulkorsantaksihatti.github.io/</id>
+  <updated>2026-11-19T02:51:26.370Z</updated>
+  <author><name>İstanbul Korsan Taksi</name></author>
+  <entry>
+    <title>İstanbul Korsan Taksi | İki Havalimanı ve Otogar</title>
+    <link href="https://istanbulkorsantaksihatti.github.io/" rel="alternate" type="text/html"/>
+    <id>https://istanbulkorsantaksihatti.github.io/</id>
+    <updated>2026-11-19T02:51:26.370Z</updated>
+    <summary>İstanbul korsan taksi hattı: İstanbul Havalimanı ve Sabiha Gökçen transferi, Esenler Otogarı, iki yaka arası yolculuk, Şile, Silivri ve Çatalca yolu. 7/24.</summary>
+  </entry>
+</feed>
